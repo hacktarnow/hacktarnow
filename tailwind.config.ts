@@ -14,7 +14,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ['Poppins', 'sans-serif'],
+        sans: ['Inter', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -62,9 +62,9 @@ export default {
           DEFAULT: "hsl(var(--purple-card))",
           foreground: "hsl(var(--purple-card-foreground))",
         },
-        lightpink: {
-          DEFAULT: "hsl(var(--light-pink-card))",
-          foreground: "hsl(var(--light-pink-card-foreground))",
+        green: {
+          DEFAULT: "hsl(var(--green-card))",
+          foreground: "hsl(var(--green-card-foreground))",
         },
       },
       borderRadius: {
