@@ -8,51 +8,51 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 330 30% 96%;
-    --foreground: 250 70% 20%;
+    --background: 220 15% 97%;
+    --foreground: 220 13% 15%;
 
     --card: 0 0% 100%;
-    --card-foreground: 250 70% 20%;
+    --card-foreground: 220 13% 15%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 250 70% 20%;
+    --popover-foreground: 220 13% 15%;
 
-    --primary: 250 70% 60%;
+    --primary: 220 70% 50%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 100 45% 60%;
-    --secondary-foreground: 0 0% 100%;
+    --secondary: 220 15% 92%;
+    --secondary-foreground: 220 13% 15%;
 
-    --muted: 250 20% 90%;
-    --muted-foreground: 250 20% 50%;
+    --muted: 220 10% 94%;
+    --muted-foreground: 220 10% 45%;
 
-    --accent: 50 100% 60%;
-    --accent-foreground: 250 70% 20%;
+    --accent: 220 70% 50%;
+    --accent-foreground: 0 0% 100%;
 
-    --destructive: 0 84.2% 60.2%;
+    --destructive: 0 70% 55%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 250 20% 85%;
-    --input: 250 20% 90%;
-    --ring: 250 70% 60%;
+    --border: 220 13% 88%;
+    --input: 220 13% 88%;
+    --ring: 220 70% 50%;
 
-    --radius: 1.25rem;
+    --radius: 0.75rem;
 
-    --cyan-card: 190 70% 60%;
+    --cyan-card: 195 65% 50%;
     --cyan-card-foreground: 0 0% 100%;
     
-    --pink-card: 330 70% 65%;
+    --pink-card: 330 60% 55%;
     --pink-card-foreground: 0 0% 100%;
     
-    --purple-card: 260 70% 65%;
+    --purple-card: 260 60% 55%;
     --purple-card-foreground: 0 0% 100%;
     
-    --light-pink-card: 350 70% 85%;
-    --light-pink-card-foreground: 250 70% 30%;
+    --green-card: 150 55% 45%;
+    --green-card-foreground: 0 0% 100%;
     
-    --sidebar-bg: 250 70% 60%;
-    --sidebar-text: 0 0% 100%;
-    --sidebar-active: 100 45% 60%;
+    --sidebar-bg: 220 20% 18%;
+    --sidebar-text: 220 10% 70%;
+    --sidebar-active: 220 70% 50%;
   }
 }
 
